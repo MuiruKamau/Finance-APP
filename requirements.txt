@@ -1,0 +1,4 @@
+#Path: requirements.txt
+yfinance
+streamlit
+plotly
